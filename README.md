@@ -63,3 +63,5 @@ To ensure background logging works reliably:
 - Enable **Autostart** for the app
 - Set **Battery Saver** to **No restrictions**
 
+## Download APK
+- [Latest Release](https://github.com/King-srt/Android_Notification_Logger/releases/latest)
