@@ -38,9 +38,8 @@ A lightweight, offline **notification history viewer** for Android. It listens t
 
 ## Screenshots
 <p align="center">
-  <img src="mainpage.jpeg" alt="Main Page" width="300" />
-  <img src="settings.jpeg" alt="Settings" width="300" />
-  <img src="dropdownmenu.jpeg" alt="Menu" width="300" />
+ <img src="mainpage.jpeg" alt="Main Page" width="300" style="margin-right: 16px;" />
+  <img src="settings.jpeg" alt="Settings" width="300" style="margin-right: 16px;" />
 </p>
 
 ## Setup
