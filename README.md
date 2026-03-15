@@ -63,5 +63,3 @@ To ensure background logging works reliably:
 - Enable **Autostart** for the app
 - Set **Battery Saver** to **No restrictions**
 
-## License
-Choose a license for your project (MIT, Apache-2.0, etc.) and add it here.
