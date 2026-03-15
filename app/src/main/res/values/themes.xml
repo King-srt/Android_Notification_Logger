@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NotificationApp" parent="Theme.MaterialComponents.Light.NoActionBar" />
+
+    <style name="ThemeOverlay.NotificationApp.DatePicker" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="colorPrimary">#FF8A3D</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSurface">#FFF7F0</item>
+        <item name="colorOnSurface">#6A2E00</item>
+    </style>
+</resources>
