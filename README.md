@@ -37,9 +37,11 @@ A lightweight, offline **notification history viewer** for Android. It listens t
 - **Open Export Folder**: open the export directory
 
 ## Screenshots
-![Main Page](mainpage.jpeg)
-![Settings](settings.jpeg)
-![Menu](dropdownmenu.jpeg)
+<p align="center">
+  <img src="mainpage.jpeg" alt="Main Page" width="300" />
+  <img src="settings.jpeg" alt="Settings" width="300" />
+  <img src="dropdownmenu.jpeg" alt="Menu" width="300" />
+</p>
 
 ## Setup
 1. Clone the repository
